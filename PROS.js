@@ -1,1 +1,2 @@
-window.alert('Hola Mundo')
+function Hola () {window.alert('Hola Mundo')}
+
